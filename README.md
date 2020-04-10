@@ -6,3 +6,6 @@ Reources Link:
 [Heroes Table](https://dota2.gamepedia.com/Table_of_hero_attributes)
 
 
+[Sample Excel Sheet](https://docs.google.com/spreadsheets/d/1GkJybbKYkB8liDpRo8x3Su4qmXaBy5iy1qV35bUCYSY/edit?usp=sharing)
+
+
